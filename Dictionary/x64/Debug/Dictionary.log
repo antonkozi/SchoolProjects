@@ -1,0 +1,3 @@
+﻿  DictionaryTest.c
+C:\Users\kozin\source\repos\Dictionary\Dictionary\DictionaryTest.c(12,6): warning C4101: 'i': unreferenced local variable
+  Dictionary.vcxproj -> C:\Users\kozin\source\repos\Dictionary\x64\Debug\Dictionary.exe
